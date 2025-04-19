@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Images from "./Images";
+import Images from "./images.jsx";
 
 class List extends Component{
     render(){
